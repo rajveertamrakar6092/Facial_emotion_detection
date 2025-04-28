@@ -5,7 +5,7 @@ It works on a model which i have trained on Kaggle dataset in Jypter notebook up
 It can detect facial emotion using live camera feed .
 The libraries / modules are mentioned in requirements.txt
 To run the project follow to steps:-
-Download files (app.py) (trainmodel.ipynb) (static.css) (index.html)
+Download files (app.py) (trainmodel.ipynb) (static.css) (index.html) (emotiondetector.h5)
 Make these file location change in code accordingly.
 Save in same folder 
 Ensure to run in environment with all libraries and dependencies installed .
